@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Sandesh Bodake
 
-
-Here are some ideas to get you started:
+Some techno personal stuff about me.
 
 - 🔭 I’m currently working on private web projects.
 - 🤓 Experience in building applications in Ruby, ROR, JavaScript and React.
