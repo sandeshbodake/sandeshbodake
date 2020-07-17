@@ -3,8 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on private web project
-- 🌱 I’m currently learning kotlin and micronaut
-- 🤔 I’m looking for help with Opencv and pythone stuff, i have one project in my mind
-- 📫 How to reach me: sandeshbodake.co.in
-- 👨‍💻 Love to write technical Blog: <a href="https://medium.com/@sandeshbodake121">Medium</a>.
+- 🔭 I’m currently working on private web projects
+- 🤓 Experience in building applications in Ruby, RubyOnRails, and React 
+- 🌱 I’m currently learning kotlin, micronaut, typescript and so on...
+- 🤔 I have one project in my mind and i'm looking for help with python and opencv stuff
+- 📫 How to reach me: <a href="http://www.sandeshbodake.co.in/" target="_blank">Protfolio website</a>.
+- 👨‍💻 Love to write technical blogs on <a href="https://medium.com/@sandeshbodake121" target="_blank">Medium</a>.
+- 🤩 Love to watch movies and playing cricket
