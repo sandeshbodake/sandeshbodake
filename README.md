@@ -12,3 +12,6 @@ Some techno personal stuff about me.
 - 👨‍💻 Love to write blogs on <a href="https://sandeshbodake.medium.com/" target="_blank">Medium</a>.
 - 🤩 Love to watch web series 🍿 and playing cricket 🏏
 - 🚩 My email  <a href="mailto:sandeshbodake121@gmail.com" target="_blank">sandeshbodake121@gmail.com</a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshbodake)](https://github.com/anuraghazra/github-readme-stats)
