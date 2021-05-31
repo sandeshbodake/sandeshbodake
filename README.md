@@ -14,4 +14,4 @@ Some techno personal stuff about me.
 - 🚩 My email  <a href="mailto:sandeshbodake121@gmail.com" target="_blank">sandeshbodake121@gmail.com</a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshbodake)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/sandeshbodake?template=classic&base.header=0&base.metadata=0&followup=1&languages=1&config.timezone=Europe%2FLondon&config.animated=true)
