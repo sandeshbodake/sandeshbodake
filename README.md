@@ -12,6 +12,3 @@ Some techno personal stuff about me.
 - 👨‍💻 Love to write blogs on <a href="https://sandeshbodake.medium.com/" target="_blank">Medium</a>.
 - 🤩 Love to watch web series 🍿 and playing cricket 🏏
 - 🚩 My email  <a href="mailto:sandeshbodake121@gmail.com" target="_blank">sandeshbodake121@gmail.com</a>
-
-
-![Metrics](https://metrics.lecoq.io/sandeshbodake?template=classic&base.header=0&base.metadata=0&followup=1&languages=1&config.timezone=Europe%2FLondon&config.animated=true)
