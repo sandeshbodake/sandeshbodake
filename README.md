@@ -5,9 +5,7 @@
 Some techno personal stuff about me.
 
 - 🔭 I’m currently working on private web projects.
-- 🤓 Experience in building applications in Ruby, ROR, JavaScript and React.
-- 🌱 I’m currently learning kotlin, micronaut, AWS, typescript and so on...
-- 🤔 I have one project in my mind and looking for help with python and opencv stuff.
+- 🤓 Experience in building applications in Ruby, ROR, JavaScript, React, kotlin, Micronaut, AWS, typescript
 - 📫 How to reach me: <a href="http://www.sandeshbodake.co.in/" target="_blank">Protfolio website</a>.
 - 👨‍💻 Love to write blogs on <a href="https://sandeshbodake.medium.com/" target="_blank">Medium</a>.
 - 🤩 Love to watch web series 🍿 and playing cricket 🏏
