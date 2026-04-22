@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**
-`Ruby` · `Ruby on Rails` · `JavaScript` · `ReactJS` · `Kotlin`
+`Ruby` · `Ruby on Rails` · `JavaScript` · `ReactJS` · `Kotlin` · `LangChain`
 
 **Databases:**
 `PostgreSQL` · `MySQL` · `Solr`
