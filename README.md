@@ -1,11 +1,42 @@
-### Hi there 👋, I am Sandesh Bodake
+# 👋 Hi, I'm Sandesh Bodke
 
-#### I'm Full stack software engineer working at Pattern. I Love code in Ruby, JavaScript, React, Kotlin and so on...
+🚀 **Software Engineer** with **6+ years of experience** building, scaling, and maintaining products across domains like **e-commerce, CRM, SaaS, Travel, and Pharma**.
 
-Some techno personal stuff about me.
+---
 
-- 🔭 I’m currently working on private web projects.
-- 🤓 Experience in building applications in Ruby, ROR, JavaScript, React, kotlin, Micronaut, AWS, typescript
-- 👨‍💻 Love to write blogs on <a href="https://sandeshbodake.medium.com/" target="_blank">Medium</a>.
-- 🤩 Love to watch web series 🍿 and playing cricket 🏏
-- 🚩 My email  <a href="mailto:sandeshbodake121@gmail.com" target="_blank">sandeshbodake121@gmail.com</a>
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+`Ruby` · `Ruby on Rails` · `JavaScript` · `ReactJS` · `Kotlin`
+
+**Databases:**
+`PostgreSQL` · `MySQL` · `Solr`
+
+**Tools & Platforms:**
+`AWS` · `Heroku` · `Nginx` · `Git` · `Sidekiq` · `Stripe` · `REST APIs` · `RSpec`
+
+**Other Skills:**
+`Project Management` · `Leadership` · `Team Building`
+
+---
+
+## 💼 What I Do
+
+- 🏗️ Build and ship **scalable full-stack applications** from scratch
+- ⚡ Work directly with founders in **fast-paced startup environments**
+- 🧠 Proactive, ownership-driven mindset with a focus on impact
+- 🤝 Strong collaborator and pragmatic problem solver
+
+---
+
+## 🌍 Location
+📍 Pune, India
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandesh_Bodke-blue?logo=linkedin)](https://in.linkedin.com/in/sandeshbodke)
+
+---
+
+> *"Dedicated, detail-oriented, and passionate about software engineering — a great team player and pragmatic developer."*
